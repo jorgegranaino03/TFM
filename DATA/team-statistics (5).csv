@@ -1,0 +1,5 @@
+﻿"number";"statistic";"shots";"goals";"shots_against";"goals_against";"xG";"xGA";"xG_diff";"xGperSh";"xGAperSh"
+1;"Normal";345;35;240;20;38.4;24.69;13.71;0.11;0.1
+2;"Standard";178;25;85;8;28.9;12.13;16.77;0.16;0.14
+3;"Slow";62;4;31;2;3.85;2.47;1.38;0.06;0.08
+4;"Fast";35;6;22;3;5.88;3.62;2.26;0.17;0.16

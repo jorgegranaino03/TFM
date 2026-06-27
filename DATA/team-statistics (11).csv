@@ -1,0 +1,5 @@
+﻿"number";"statistic";"shots";"goals";"shots_against";"goals_against";"xG";"xGA";"xG_diff";"xGperSh";"xGAperSh"
+1;"Own goals";2;2;1;1;2;1;1;1;1
+2;"Out of box";215;9;150;2;7.42;4.59;2.83;0.03;0.03
+3;"Penalty area";343;62;216;18;56.9;25.84;31.06;0.17;0.12
+4;"Six-yard box";39;14;24;5;18.28;9.57;8.71;0.47;0.4

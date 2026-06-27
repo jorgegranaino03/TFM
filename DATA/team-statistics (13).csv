@@ -1,0 +1,6 @@
+﻿"number";"statistic";"shots";"goals";"shots_against";"goals_against";"xG";"xGA";"xG_diff";"xGperSh";"xGAperSh"
+1;"Missed shot";182;0;155;0;15.61;12.49;3.11;0.09;0.08
+2;"Saved shot";161;0;92;0;23.2;10.57;12.63;0.14;0.11
+3;"Blocked shot";153;0;109;0;11.04;5.57;5.46;0.07;0.05
+4;"Goal";87;87;26;26;31.04;10.59;20.46;0.36;0.41
+5;"Shot on post";16;0;9;0;3.71;1.78;1.94;0.23;0.2
